@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Si utiliza o referencia este proyecto, cite este repositorio."
+title: "Aranjuez Limpio 360"
+type: software
+authors:
+  - family-names: "Garcés Echeverri"
+    given-names: "Kevin Andrés"
+version: "0.1"
+date-released: "2026-10-05"
+institution: "Instituto Tecnológico Metropolitano - ITM"
